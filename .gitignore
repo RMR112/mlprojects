@@ -122,6 +122,8 @@ celerybeat.pid
 # Environments
 .env
 .venv
+artifacts/
+.artifacts
 env/
 venv/
 ENV/
